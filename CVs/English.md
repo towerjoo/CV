@@ -2,13 +2,13 @@
 
 * Zhu Tao, Male
 * zhutao.iscas@gmail.com
-* http://towerjoo.github.io (My personal blog)
+* http://towerjoo.github.io (My personal Chinese blog)
 
 
 ## Education Background
 
 * Sep. 2007 to Jul. 2010, University of Chinese Academy of Sciences, Computer Science
-* Sep. 2003 to Jul. 2007, Xi'an University of Posts & Telecommunication
+* Sep. 2003 to Jul. 2007, Xi'an University of Posts & Telecommunication, Computer Science
 
 ## Work Experience
 
@@ -18,7 +18,8 @@ I am mainly responsible for the online updater for the data cards, smart phones,
 And the clients can work in Mac, Linux. 
 
 We use: *Objective C, Cocoa, Python, wxPython, C++, C* as the main technology stack. 
-Agile development like Scrum, Kanban is involved in the development.
+
+Agile development like *Scrum, Kanban* is involved in the development.
 
 
 ### Jul. 2010 to Nov. 2011, Beijing Funplus, social games development
@@ -29,7 +30,8 @@ We build games for social network services, incl. facebook, VZ, Qzone, etc.
 And later we also work on mobile platforms, incl. iOS, Android.
 
 We use: *Python, Django, HTML/CSS/Javascript, Actionscript, Objective C, Java*, etc.
-Scrum was employed at that time.
+
+*Scrum* was employed at that time.
 
 ## Misc
 
@@ -38,7 +40,7 @@ I am also a blogger and I blog for my life, my little daughter, readings, and te
 I love reading a lot, not only the tech ones, but also the social sciences, novels, 
 even languages.
 
-Thank the Internet to brings information to everyone who can afford a computer with
+Thank the Internet to bring information to everyone who can afford a computer with
 Internet access, then no one can stop you to become a master in any area.
 
 This repo is for showing myself for the potential work opportunity, so contact me via
