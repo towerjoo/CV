@@ -1,34 +1,34 @@
 # Curriculum Vitae
 
-Zhu Tao, Male
-zhutao.iscas@gmail.com
-http://towerjoo.github.io (My personal blog)
+* Zhu Tao, Male
+* zhutao.iscas@gmail.com
+* http://towerjoo.github.io (My personal blog)
 
 
 ## Education Background
 
-Sep. 2007 to Jul. 2010, University of Chinese Academy of Sciences, Computer Science
-Sep. 2003 to Jul. 2007, Xi'an University of Posts & Telecommunication
+* Sep. 2007 to Jul. 2010, University of Chinese Academy of Sciences, Computer Science
+* Sep. 2003 to Jul. 2007, Xi'an University of Posts & Telecommunication
 
 ## Work Experience
 
-**Nov. 2011 to Now, ZTE Xi'an, PC softwares development**
+### Nov. 2011 to Now, ZTE Xi'an, PC softwares development
 
 I am mainly responsible for the online updater for the data cards, smart phones, etc.
 And the clients can work in Mac, Linux. 
 
-We use: Objective C, Cocoa, Python, wxPython, C++, C as the main technology stack. 
+We use: *Objective C, Cocoa, Python, wxPython, C++, C* as the main technology stack. 
 Agile development like Scrum, Kanban is involved in the development.
 
 
-**Jul. 2010 to Nov. 2011, Beijing Funplus, social games development**
+### Jul. 2010 to Nov. 2011, Beijing Funplus, social games development
 
 I was a studio leader in this startup and also a lead developer. 
 We build games for social network services, incl. facebook, VZ, Qzone, etc.
 
 And later we also work on mobile platforms, incl. iOS, Android.
 
-We use: Python, Django, HTML/CSS/Javascript, Actionscript, Objective C, Java, etc.
+We use: *Python, Django, HTML/CSS/Javascript, Actionscript, Objective C, Java*, etc.
 Scrum was employed at that time.
 
 ## Misc
