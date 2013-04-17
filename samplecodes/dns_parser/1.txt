@@ -1,0 +1,11 @@
+20130325 08:30:41,UDP,Rcv,10.30.25.55,,Q,[0001,D,NOERROR],A,www.yahoo.com,yahoo.com
+20130325 08:30:41,UDP,Rcv,10.30.133.61,,Q,[0001,D,NOERROR],A,www.cnn.com,cnn.com
+20130325 08:30:41,UDP,Rcv,10.30.26.123,,Q,[0001,D,NOERROR],A,www.cnn.com,cnn.com
+20130325 08:30:41,UDP,Rcv,10.30.105.63,,Q,[0001,D,NOERROR],A,ds.download.windowsupdate.com,windowsupdate.com
+20130325 08:30:41,UDP,Rcv,10.30.200.200,,Q,[0001,D,NOERROR],A,l2.yimg.com,yimg.com
+20130325 08:30:41,UDP,Rcv,10.30.200.203,,Q,[0001,D,NOERROR],A,apix.iminent.com,iminent.com
+20130325 08:30:41,UDP,Rcv,10.30.0.50,R,Q,[8081,DR,NOERROR],A,apix.iminent.com.cdngc.net,cdngc.net
+20130325 08:30:41,UDP,Rcv,10.30.200.209,,Q,[0001,D,NOERROR],A,s.amazon-adsystem.com,amazon-adsystem.com
+20130325 08:30:42,UDP,Rcv,10.30.200.109,,Q,[0001,D,NOERROR],A,1.s.soko.cn,soko.cn
+20130325 08:30:43,UDP,Rcv,10.30.200.119,,Q,[0001,D,NOERROR],A,s.kamal.rn,kalam.ru
+
