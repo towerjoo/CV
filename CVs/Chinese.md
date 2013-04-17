@@ -14,39 +14,33 @@
 
 ### 2011.11-, 中兴通讯（西安），PC软件开发
 
-我主要负责数据卡和
+我主要负责数据卡和智能终端的在线升级。所开发的升级客户端支持Mac，Linux等系统。
 
-I am mainly responsible for the online updater for the data cards, smart phones, etc.
-And the clients can work in Mac, Linux. 
+主要使用的技术包括：*Objective C, Cocoa, Python, wxPython, C++, C* 等。
 
-We use: *Objective C, Cocoa, Python, wxPython, C++, C* as the main technology stack. 
+日常开发中我们也使用*Scrum, Kanban*等敏捷开发方法。
 
-Agile development like *Scrum, Kanban* is involved in the development.
+### 2010.7-2011.11，北京趣加，社交游戏开发
 
+我当时是创业公司的一个studio的leader，并且是主开发人员。
 
-### Jul. 2010 to Nov. 2011, Beijing Funplus, social games development
+我们为不同的社交网络开放社交游戏，例如；facebook，VZ，QQ空间等。
 
-I was a studio leader in this startup and also a lead developer. 
-We build games for social network services, incl. facebook, VZ, Qzone, etc.
+后来我们也为移动平台开放社交游戏，如iOS，Android等。
 
-And later we also work on mobile platforms, incl. iOS, Android.
+使用的技术有: *Python, Django, HTML/CSS/Javascript, Actionscript, Objective C, Java*, 等.
 
-We use: *Python, Django, HTML/CSS/Javascript, Actionscript, Objective C, Java*, etc.
+*Scrum*是我们日常的项目管理方式。
 
-*Scrum* was employed at that time.
+## 其它
 
-## Misc
+我也是个博客爱好者，经常会关注生活、小宝贝、阅读以及技术等。
 
-I am also a blogger and I blog for my life, my little daughter, readings, and techs.
+我非常喜欢阅读，不只会阅读技术类书籍，也会阅读社科类，小说，甚至语言。
 
-I love reading a lot, not only the tech ones, but also the social sciences, novels, 
-even languages.
+感谢互联网为每个可以支付起有网络连接电脑的人带来无尽的信息，从此没有人能够阻挡你成为任一领域的专家。
 
-Thank the Internet to bring information to everyone who can afford a computer with
-Internet access, then no one can stop you to become a master in any area.
+这个repo是用于展示我的个人信息，以方便可能的工作机会。如果你有兴趣，不放给我写邮件直接联系。
 
-This repo is for showing myself for the potential work opportunity, so contact me via
-Email directly if you see something interesting.
+或者直接打我的手机，我的手机号是”*36185409382 >> 1*“ （在python的prompt下输入，结果即时我的手机号）
 
-Run *36185409382 >> 1* in a python interactive prompt to get my mobile phone number.
-Remember to add 086 as the country code when calling.
