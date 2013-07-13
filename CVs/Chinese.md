@@ -17,13 +17,13 @@
 
 * PST指Product Support Tool，主要为硬件产品提供参数修改、固件升级等服务的软件。
 * 在此项目中，使用的技术包括：Qt, C++, MVC等。
-* 日常开发中我们也使用*Scrum, Kanban, CI*等敏捷开发方法和工具。
+* 日常开发中我们也使用 *Scrum, Kanban, CI* 等敏捷开发方法和工具。
 
 ### 2011.11-, 中兴通讯（西安），PC软件开发
 
 * 主要负责数据卡和智能终端的在线升级。所开发的升级客户端支持Mac，Linux等系统。
-* 主要使用的技术包括：*Objective C, Cocoa, Python, wxPython, C++, C* 等。
-* 日常开发中我们也使用*Scrum, Kanban, CI*等敏捷开发方法和工具。
+* 主要使用的技术包括： *Objective C, Cocoa, Python, wxPython, C++, C* 等。
+* 日常开发中我们也使用 *Scrum, Kanban, CI* 等敏捷开发方法和工具。
 
 ### 2010.7-2011.11，北京趣加，社交游戏开发
 
