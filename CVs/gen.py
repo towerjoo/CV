@@ -7,10 +7,10 @@ def gen(lang="Chinese"):
     fh.close()
     if lang == "Chinese":
         mark = "男"
-        del_mark = "这个repo"
+        del_mark = "* 这个repo"
     elif lang == "English":
         mark = "Male"
-        del_mark = "This repo"
+        del_mark = "* This repo"
     cont = cont.replace(mark, "%s, %s" % (mark, str(cell)))
     del_words = cont[cont.index(del_mark):cont.index("<sub>")]
     cont = cont.replace(del_words, "")
