@@ -33,3 +33,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# ignore the CVs with phone number
+*ZhuTao.txt
