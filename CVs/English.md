@@ -12,6 +12,15 @@
 
 ## Work Experience
 
+### May 2013 to Now, ZTE Xi'an, PST development
+
+PST stands for Product Support Tool, which is for the parameters modification, firmware upgrade
+to the hardware.
+
+We use: Qt GUI framework, C++, MVC
+
+We also employ *Scrum, Kanban, CI* and tools alike to ease the project management and delivery.
+
 ### Nov. 2011 to Now, ZTE Xi'an, PC softwares development
 
 I am mainly responsible for the online updater for the data cards, smart phones, etc.
@@ -49,4 +58,4 @@ Email directly if you see something interesting.
 Run *36185409382 >> 1* in a python interactive prompt to get my mobile phone number.
 Remember to add 086 as the country code when calling.
 
-<sub>Last updated on Apr. 17 2013</sub>
+<sub>Last updated on Jul. 13 2013</sub>
